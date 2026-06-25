@@ -40,5 +40,6 @@ public class App {
         System.out.println(hab1.capacidad + comedor.capacidad);
 
         System.out.println("Capacidad baño: " + baño.capacidad);
+
     }
 }
